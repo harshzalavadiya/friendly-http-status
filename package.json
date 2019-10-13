@@ -1,0 +1,26 @@
+{
+  "name": "friendly-http-status",
+  "version": "1.0.0",
+  "description": "Translates http status code to friendly object containing description and emoji",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "repository": "harshzalavadiya/friendly-http-status",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "jest --config=jest.json",
+    "coverage": "jest --coverage --config=jest.json",
+    "dev": "microbundle watch",
+    "build": "microbundle"
+  },
+  "author": "Harsh Zalavadiya <harsh@foobars.in> (twitter: @zhnebula)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^24.0.18",
+    "jest": "^24.9.0",
+    "microbundle": "^0.11.0",
+    "ts-jest": "^24.1.0"
+  },
+  "dependencies": {}
+}

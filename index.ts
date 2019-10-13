@@ -1,0 +1,1 @@
+export { getFriendlyError } from "./src/";
