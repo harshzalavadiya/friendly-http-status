@@ -1,6 +1,6 @@
-# Friendly Http Status
+# Friendly HTTP Status
 
-Translates http status code to minimal friendly object containing description and emoji 😃
+Translates HTTP status code to minimal friendly object containing description and emoji 😃
 
 ![GitHub Actions Status](https://github.com/harshzalavadiya/friendly-http-status/workflows/NodeJS/badge.svg)
 ![NPM](https://img.shields.io/npm/v/friendly-http-status.svg)
