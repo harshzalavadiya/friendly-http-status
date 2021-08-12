@@ -17,7 +17,7 @@
   "author": "Harsh Zalavadiya <harsh@foobars.in> (twitter: @zhnebula)",
   "license": "MIT",
   "devDependencies": {
-    "@types/jest": "^26.0.0",
+    "@types/jest": "^27.0.1",
     "jest": "^25.1.0",
     "microbundle": "^0.13.3",
     "ts-jest": "^25.2.1"
