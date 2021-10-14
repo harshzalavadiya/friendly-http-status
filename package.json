@@ -19,7 +19,7 @@
   "devDependencies": {
     "@types/jest": "^26.0.0",
     "jest": "^25.1.0",
-    "microbundle": "^0.13.3",
+    "microbundle": "^0.14.1",
     "ts-jest": "^25.2.1"
   },
   "dependencies": {}
